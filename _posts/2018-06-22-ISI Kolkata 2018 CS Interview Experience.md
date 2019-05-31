@@ -21,30 +21,44 @@ Once you clear the written cut off, you have roughly a months time to prepare fo
 
 In my case my interview was scheduled in the afternoon session. When I reached the campus, I had my documents verified first and then had to wait for my turn. Hardly 6-7 candidates were there for CS interview including me which came as a shock to me (may be due to multiple interview slots with multiple sessions).
 
+
 Suddenly my turn came, I went there noticing 7-8 panelists were there to welcome me. One of the panelists greeted me  asked me to sit down and started the conversation with whether I had Maths in 10+2 or not (:p)
 
-```conversation
-P1: Did you study Maths in 10+2?
+P: Did you study Maths in 10+2?
 
 Me: Yes
 
-P1: How much you scored in Maths in class X and XII?
+P: How much you scored in Maths in class X and XII?
 
 Me: Told
 
-P2: What are you doing currently?
+P: What are you doing currently?
 
 Me: Told I am currently working in Capgemini for the past 2 months or so.
 
-P2: What were you doing after graduating and before getting your job.
+P: What were you doing after graduating and before getting your job.
 
-Me: ![Shocked](/assets/images/shocked.jpg)
+Me: Shocked! Told them my offer letter came  almost 7-8 months after they interviewed me.
 
-Shocked! Told them my offer letter came  almost 7-8 months after they interviewed me.
+> `They were finally satisfied and moved forward to actually interviewing me the way I wanted them to.`
 
-***They were finally satisfied and moved forward to actually interviewing me the way I wanted them to***
-
-P3: How can you find GCD of two numbers; just explain roughly with the code on board with chalk.
+P: How can you find GCD of two numbers; just explain roughly with the code on board with chalk.
 
 Me: Wrote the code and explained them but I missed something and they drilled me there.
-```
+
+> `They asked me to implement the recursive code as well as the iterative one
+Then they switched to Algebraic Maths.`
+
+P: Given a quadratic equation, draw its graph, map the roots and give a generalized formula
+
+Me: Done as it was fairly straight forward.
+
+> `Asked me cross check questions about the quadratic equation and it continued for a while.
+This is where I faltered as I didn't study about it in depth.`
+
+P: You can go now!
+
+**EndGame:** *Rejected!*
+
+**Reason:** *Didn't have time to prepare for this interview as I was employed during that period.
+But with decent preparation, anyone can crack the interview as the level of questions is easy to moderate.*
