@@ -3,6 +3,7 @@ layout: single
 title: ISI Kolkata 2018 CS Interview Experience
 categories: [academics]
 tags: [interview, experience]
+toc: true
 ---
 
 ISI Kolkata recruits candidates on the basis of a *written test* and *personal interview*. Generally the written exam is conducted in the month of April/May followed by interview a month or so later.
