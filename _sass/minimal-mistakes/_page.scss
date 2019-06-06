@@ -53,6 +53,7 @@
 }
 
 .page__title {
+  color: #f21368;
   margin-top: 0;
   line-height: 1;
 
@@ -247,8 +248,8 @@
 
 .page__meta {
   margin-top: 2em;
-  color: $muted-text-color;
-  font-family: $sans-serif;
+  color:  #f9e79f;  /*  default: $muted-text-color */
+  font-family: $share-tech-mono; /*  default: $sans-serif */
   font-size: $type-size-6;
 
   p {
