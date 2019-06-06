@@ -3,6 +3,8 @@ layout: single
 title: Arsenal - Outdated style of attack?
 categories: [sports]
 tags: [arsenal, football]
+img: shocked.jpg
+classes: wide
 ---
 
 Hello everyone. I am back with another criticism of how bad we are not just in defence but in also how we build our attack. I felt strange writing this as hardly anyone discuss about how we build our attack and generally not many critics are out there having a go at our attacking style. So thought I may well put this out in front of you:
@@ -41,4 +43,4 @@ If I were to summarize my reservations against our style of attack, I could fing
 - 0 channel play (no stretching the play by running onto channels by our so called 2 world class strikers having pace and power in abundance).
 - 0 directness (the most obvious reason why our attack looks so toothless despite having creative players)
 
-`End game? Woeful defence (obvious as we don't have the right personnel in defence) but even woeful style of attack.`
+> End game? Woeful defence (obvious as we don't have the right personnel in defence) but even woeful style of attack.
