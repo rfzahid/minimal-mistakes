@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I happen to be a Gooner! Yeah google it for those who has no idea what I am on about :)
+I am in pursuit of Masters in Computer Science with specialization in the field of Machine Learning & Artificial Intelligence. I have a Bachelors degree in Information Technology with work experience of 6 months as a Software Engineer.
 
-### More Information
+## More Information
 
-You want more of me? Okay lets connect!
+Apart from this, I take keen interest in reading and writing stuffs ranging from Sports to Science and Technology. I happen to be a Gooner. Yeah google it for those who has no idea of what I am on about.
 
-### Contact me
+## Contact me
 
-[zhdwkl@gmail.com](mailto:zhdwkl@gmail.com)
+[Email](mailto:zhdwkl@gmail.com)
+[Github](https://github.com/rfzahid)
+[Linkedin](https://www.linkedin.com/in/zahid-wakeel-ba6549103/)
+[Twitter](https://twitter.com/ZahidWakeel)
+[Facebook](https://www.facebook.com/zahid.wakeel.7)
+[Instagram](https://www.instagram.com/manlikezahid/)
