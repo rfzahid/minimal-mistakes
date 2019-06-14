@@ -3,11 +3,10 @@ layout: single
 title: Arsenal - Outdated style of attack?
 categories: [sports]
 tags: [arsenal, football]
-img: shocked.jpg
 classes: wide
 ---
 
-Hello everyone. I am back with another criticism of how bad we are not just in defence but in also how we build our attack. I felt strange writing this as hardly anyone discuss about how we build our attack and generally not many critics are out there having a go at our attacking style. So thought I may well put this out in front of you:
+Hello everyone. I am back with another criticism of how bad we are not just in defence but also in how we build our attack. I felt strange writing this as hardly anyone discuss about how we build our attack and generally not many critics are out there having a go at our attacking style. So thought I may well put this out in front of you:
 
 > "Our defence is woeful yes! But our style of attack is even more pathetic."
 

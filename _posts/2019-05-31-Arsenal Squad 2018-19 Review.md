@@ -58,9 +58,9 @@ I have categorized players based on the performances this season in 4 levels:
 > I am not going to explain each and every player's rating as most of them are pretty self explanatory. But there are a few on border line ratings.
 >
 > Lichtsteiner, Mustafi and Monreal have been awful in defense throughout the whole season whenever they have played. While former and later have got no legs to sustain the athleticism, the lesser I write about Mustafi the better it is as I can't put him in words.
->
+
 > In the midfield we have Xhaka boom! He takes a thousand shots, bangs one of them in, and our fan base melts and sees him as the next version of Gerrard. He is an awful little player who is one footed, can't turn back, looses possession in our own half, directly involved most number of times in giving away goals leading to his mistake, gives away frequent gifts by hacking down players wildly in our penatly box.
->
-> Mesut assist king Ozil: Sitting on 350k a week is our so called assist king Mesut Ozil. Though he can't dribble past any player, lost his whatever little pace he had over the years, can't beat a man one on one no more, but yeah he is our assist king so lets pull up previous stats no matter what he does. His once excellent range of passing has gone downhill and what is left of him is invisible to all of us.
+
+> Mesut Ozil: Sitting on 350k a week is our so called "assist king" Mesut Ozil. Though he can't dribble past any player, lost his whatever little pace he had over the years, can't beat a man one on one no more, but yeah he is our assist king so lets pull up his meaningless, pointless previous stats to defend him no matter what he does. His once excellent range of passing has gone downhill and what is left of him is invisible to all of us.
 >
 > He had Auba & Laca to play with but still hardly created chances on a frequent basis over the course of the season and with only putting someone on through to the back of the net twice, he is no more the assist king. Playing with him in the side is like playing with 10 men. Arsenal should try to do away with a player like him.
