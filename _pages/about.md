@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am in pursuit of Masters in Computer Science with specialization in the field of Machine Learning & Artificial Intelligence. I have a Bachelors degree in Information Technology with work experience of 6 months as a Software Engineer.
+I am currently pursuing Masters in Computer Science at IIT Bombay. I have a Bachelors degree in Information Technology with work experience of 7 months as a Software Engineer.
 
 ## More Information
 
